@@ -4,3 +4,4 @@ Atividade avaliativa da matéria de Computational Thinking &amp; Application Ser
 Integrantes do grupo:
 
 Isabella Tragante de Siqueira - RM:563793
+Leonardo Henrique Basseti - RM:564231
